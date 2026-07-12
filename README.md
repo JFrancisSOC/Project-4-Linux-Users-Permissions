@@ -70,7 +70,7 @@
 ![Examining Linux File Ownership](06%20Examining%20Linux%20File%20Ownership.png)
 
 ### 07 – Using sudo for Administrative Tasks
-![Using sudo for Administrative Tasks](07%20Using%20sudo%20for%20Administrative%20Tasks.png)
+![Using sudo for Administrative Tasks](07%20Using%20Sudo%20for%20Administrative%20Tasks.png)
 
 ---
 
