@@ -51,13 +51,26 @@
 
 ## Screenshots
 
-- ![Verifying Current Users and Directory](screenshots/Project%204%20Linux%20Users%20&%20Permissions/01%20Verifying%20Current%20Users%20and%20Directory.png)
-- ![Analyzing Linux File Ownership](screenshots/Project4/02%20Analyzing%20Linux%20File%20Ownership.png)
-- ![Understanding Linux File Permissions](screenshots/Project4/03%20Understanding%20Linux%20File%20Permissions.png)
-- ![Creating a Practice File](screenshots/Project4/04%20Mission4.txt.png)
-- ![Modifying Linux File Permissions with chmod](screenshots/Project4/05%20Modifying%20Linux%20File%20Permissions%20With%20chmod.png)
-- ![Examining Linux File Ownership](screenshots/Project4/06%20Examining%20Linux%20File%20Ownership.png)
-- ![Using sudo for Administrative Tasks](screenshots/Project4/07%20Using%20sudo%20for%20Administrative%20Tasks.png)
+### 01 – Verifying Current Users and Directory
+![Verifying Current Users and Directory](01%20Verifying%20Current%20Users%20and%20Directory.png)
+-
+-### 02 – Analyzing Linux File Ownership
+![Analyzing Linux File Ownership](02%20Analyzing%20Linux%20File%20Ownership.png)
+
+### 03 – Understanding Linux File Permissions
+![Understanding Linux File Permissions](03%20Understanding%20Linux%20File%20Permissions.png)
+-
+-### 04 – Creating a Practice File
+![Creating a Practice File](04%20Mission4.txt.png)
+
+### 05 – Modifying Linux File Permissions with chmod
+![Modifying Linux File Permissions with chmod](05%20Modifying%20Linux%20File%20Permissions%20With%20chmod.png)
+-
+-### 06 – Examining Linux File Ownership
+- ![Examining Linux File Ownership](06%20Examining%20Linux%20File%20Ownership.png)
+
+- ### 07 – Using sudo for Administrative Tasks
+![Using sudo for Administrative Tasks](07%20Using%20sudo%20for%20Administrative%20Tasks.png)
 
 ---
 
